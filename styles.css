@@ -23,7 +23,7 @@ body * + * {
 }
 
 main {
-    width: 70%;
+    width: 60vw;
     height: fit-content;
 
     background-color: hsl(0, 0%, 100%);

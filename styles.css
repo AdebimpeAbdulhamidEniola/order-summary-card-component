@@ -23,7 +23,7 @@ body * + * {
 }
 
 main {
-    width: 50%;
+    width: 70%;
     height: fit-content;
 
     background-color: hsl(0, 0%, 100%);
@@ -150,7 +150,7 @@ button + p > a:focus {
 }
 
 /* media query styles */
-@media(min-width: 800px) {
+@media(min-width: 985px) {
     body {
         background-image: url('images/pattern-background-desktop.svg');
     }

@@ -23,12 +23,12 @@ body * + * {
 }
 
 main {
-    width: 80vw;
+    width: 50%;
     height: fit-content;
 
     background-color: hsl(0, 0%, 100%);
     box-shadow: -3px 10px 4px hsl(223, 47%, 23%, .2);
-    margin: 2em auto;
+    margin: 4em auto;
     border-radius: 1em;
     overflow: hidden;
 }
